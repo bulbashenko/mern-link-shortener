@@ -1,6 +1,0 @@
-{
-  "port": 5000,
-  "jwtSecret": "mamayanehochuumirati",
-  "mongoURL": "mongodb+srv://bulbashenko:testpassword@cluster0.mdaaw.mongodb.net/application-test?retryWrites=true&w=majority",
-  "baseURL": "http://localhost:5000"
-}
